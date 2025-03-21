@@ -15,8 +15,7 @@ Este projeto realiza a análise de sinais de ECG utilizando o dataset **ECG5000*
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/projeto-ecg.git
-cd projeto-ecg
+git clone https://github.com/dnilsonc/ECG-RPeak-Detector
 ```
 
 ### 2. Crie e ative o ambiente virtual
@@ -72,14 +71,13 @@ O projeto realiza as seguintes etapas:
 ## 📁 Estrutura do Projeto
 
 ```bash
-📂 projeto-ecg/
+📂 classificador-ecg/
 ├── data/
 │   └── 📁 ECG5000/          # Arquivos do dataset
 ├── 📄 main.ipynb            # Código principal
 ├── 📦 ECG5000.zip           # Dataset compactado
 ├── 📄 README.md             # Documentação
 ├── 📄 requirements.txt      # Dependências
-└── 📁 venv/                 # Ambiente virtual
 ```
 
 
