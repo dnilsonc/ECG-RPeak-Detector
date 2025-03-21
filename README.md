@@ -129,8 +129,3 @@ O projeto realiza as seguintes etapas:
 1. Estrutura de diretórios otimizada para versionamento
 2. Compatível com Python 3.9+ para garantir estabilidade
 3. Dependências especificadas com versões exatas no `requirements.txt`
-
-**Para Personalização:**
-- Substituir `seu-usuario` no link de clone
-- Atualizar métricas com resultados reais
-- Adicionar créditos específicos do projeto
